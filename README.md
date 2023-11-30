@@ -1,16 +1,15 @@
-<p>
-    <h1>Christopher Webb</h1>
-    <h3>Software & Web Developer</h3>
-</p>
+### Christopher Webb
+Software & Web Developer
 
 **CV available in .docx and .pdf formats**
 
-[webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)
-Nottingham, UK
-Willing to relocate to London, UK
-[chriswebbdeveloper.co.uk]
-[linkedin.com/in/webb-christopher]
-[github.com/ChrisWebbDeveloper]
+## Contact Details
+[webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)  
+Nottingham, UK  
+Willing to relocate to London, UK  
+[Website](https://chriswebbdeveloper.co.uk)  
+[LinkedIn](http://linkedin.com/in/webb-christopher)  
+[GitHub](http://github.com/ChrisWebbDeveloper)
 
 
 ## About Me

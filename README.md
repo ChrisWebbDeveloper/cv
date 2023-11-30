@@ -1,5 +1,6 @@
-### Christopher Webb
-Software & Web Developer
+<h3 style="font-size:2em">Christopher Webb</h3>
+<h3>Software & Web Developer</h3>
+<hr />
 
 **CV available in .docx and .pdf formats**
 

@@ -1,5 +1,4 @@
-# Christopher Webb
-<h2 class="subtitle">Software & Web Developer</h2>
+# Christopher Webb <small>Software & Web Developer</small>
 
 **CV available in .docx and .pdf formats**
 
@@ -7,7 +6,7 @@
 Nottingham, UK
 Willing to relocate to London, UK
 chriswebbdeveloper.co.uk
-.com/in/webb-christopher
+linkedin.com/in/webb-christopher
 github.com/ChrisWebbDeveloper
 
 
@@ -25,10 +24,10 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 
 ## Experience
 ### Nottingham University Hospitals NHS Trust
-<p class="details-text">Nottingham, UK</p>
+Nottingham, UK
 
 #### Product Developer
-<p class="details-text">Feb 2018 - Present, Hybrid</p>
+Feb 2018 - Present, Hybrid
 
 - Designing and building full-stack applications to be used across the Trust, primarily in a PHP and PostgreSQL backend, and HTML5 / SASS / jQuery frontend, including building REST API calls
 - Designing and deploying hybrid mobile applications in the Ionic App Framework, utilising Angular and REST API calls
@@ -43,7 +42,7 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 - Mentoring and training junior developers to Trust best practices and how to build in relevant technologies
 
 #### General Clinical Administrator - Paediatrics
-<p class="details-text">Oct 2017 - Feb 2018, On-site</p>
+Oct 2017 - Feb 2018, On-site
 
 - Typing via recorded dictation to produce letters to be signed and sent to relevant parties
 - Communicating with doctors and managers to ensure all relevant documents are correctly completed and sensitively handled to their respective recipients
@@ -53,7 +52,7 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 - Tracking and ordering old archived data where applicable
 
 #### General Clinical Administrator - Outpatients
-<p class="details-text">Dec 2016 - Oct 2017, On-site</p>
+Dec 2016 - Oct 2017, On-site
 
 - Regular collection, maintenance and record-keeping of medical case-notes for patient appointment
 - Followed strict guidelines in relation to information governance and patient confidentiality
@@ -65,10 +64,10 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 
 
 ### JD Wetherspoon - Lloyds No.1 Bar
-<p class="details-text">Nottingham, UK, On-site</p>
+Nottingham, UK, On-site
 
 #### Bar Team Leader
-<p class="details-text">Jul 2016 - Dec 2016</p>
+Jul 2016 - Dec 2016
 
 - Served customers as quickly and as professionally as possible
 - Dealt with any complaints, damages, injuries, or any other issues that arise
@@ -77,7 +76,7 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 - Maintained high hygiene and fire safety standards
 
 #### Kitchen Associate
-<p class="details-text">Jul 2014 - Jul 2016</p>
+Jul 2014 - Jul 2016
 
 - Worked in a team & communicating effectively for the best results
 - Followed Standard Operating Procedures that require use of delicate equipment and information in a professional manner
@@ -87,7 +86,7 @@ Regardless of what I craft, I aim to bring the same passion for tinkering and pr
 ## Education
 
 ### University of Brighton
-<p class="details-text">Sep 2011 - Jul 2014, Brighton, UK</p>
+Sep 2011 - Jul 2014, Brighton, UK
 
 Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - **2:1**
 
@@ -114,22 +113,22 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 
 
 ### Palmer Catholic Academy (formerly Canon Palmer Catholic School)
-<p class="details-text">Ilford, London, UK</p>
+Ilford, London, UK
 
 #### A Levels
-<p class="details-text">Sep 2009 - Jul 2011</p>
+Sep 2009 - Jul 2011
 
 - Mathematics - **A\***
 - Physics - **A**
 - Art, Craft & Design - **B**
 
 #### AS Levels
-<p class="details-text">Sep 2009 - Jul 2010</p>
+Sep 2009 - Jul 2010
 
 - Information Technology - **B**
 
 #### GCSEs
-<p class="details-text">Sep 2009 - Jul 2011</p>
+Sep 2009 - Jul 2011
 
 - FSMQ - Additional Mathematics - **A**
 - Art and Design - **A\***
@@ -146,7 +145,7 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 ## Projects
 
 ### Archipelago Game
-<p class="details-text">Apr 2022 - Present</p>
+Apr 2022 - Present
 
 - Top-down 2D dungeon crawler game
 - Originally built in Unity
@@ -155,7 +154,7 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 - Drawing 16x16 sprites in GIMP, combined into sprite sheets
 
 ### Chris Webb Developer Portfolio Website
-<p class="details-text">Mar 2018 - Jul 2022</p>
+Mar 2018 - Jul 2022
 
 - Portfolio website for web development
 - Back-end built in Laravel / PHP with an SQLite database
@@ -165,7 +164,7 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 - Evolved from standard HTML5 / CSS3 / jQuery into current format, and will be updated in the future to reflect further technologies
 
 ### Photography Portfolio Builder
-<p class="details-text">Aug 2021 - Feb 2022</p>
+Aug 2021 - Feb 2022
 
 - Website to display photos inside portfolios, managed by signing in to upload, provide details and format the website accordingly
 - Backend written in ASP&#46;NET Core with C#, connecting to a MySQL database
@@ -174,7 +173,7 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 - Gulp included from automating processes, such as compilation and minifying
 
 ### Kelly Daniels Photography Website
-<p class="details-text">Sep 2017 - Oct 2017</p>
+Sep 2017 - Oct 2017
 
 - Photography Portfolio designed in WordPress
 - Custom PHP to affect website functionality
@@ -257,22 +256,3 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 - ASP&#46;NET MVC 5 Fundamentals - **Issued Jul 2018**
 - Advanced Databases and SQL Querying - **Issued May 2018**
 - Introduction to Databases and SQL Querying - **Issued Jan 2018**
-
-
-
-<style>
-    .subtitle {
-        font-weight: normal;
-        margin-top: -20px;
-    }
-
-    .details-text {
-        font-size: 0.9rem;
-        margin-top: -10px;
-        color: grey;
-    }
-</style>
-
-
-
-    

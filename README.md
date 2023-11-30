@@ -1,8 +1,32 @@
-Christopher Webb  
-Software & Web Developer
-========================
-
+# Christopher Webb  
+### Software & Web Developer
 **CV available in .docx and .pdf formats**
+
+### Table of Contents
+- [Contact Details](#contact-details)
+- [About Me](#about-me)
+- [Experience](#experience)
+    - [Nottingham University Hospitals NHS Trust](#nottingham-university-hospitals-nhs-trust)
+        - [Product Developer](#product-developer)
+        - [General Clinical Administrator - Paediatrics](#general-clinical-administrator---paediatrics)
+        - [General Clinical Administrator - Outpatients](#general-clinical-administrator---outpatients)
+    - [JD Wetherspoon - Lloyds No.1 Bar](#jd-wetherspoon---lloyds-no1-bar)
+        - [Bar Team Leader](#bar-team-leader)
+        - [Kitchen Associate](#kitchen-associate)
+- [Education](#education)
+    - [University of Brighton](#university-of-brighton)
+        - [Activities & Societies](#activities--societies)
+    - [Palmer Catholic Academy (formerly Canon Palmer Catholic School)](#palmer-catholic-academy-formerly-canon-palmer-catholic-school)
+        - [A Levels](#a-levels)
+        - [AS Levels](#as-levels)
+        - [GCSEs](#gcses)
+- [Projects](#projects)
+    - [Archipelago Game](#archipelago-game)
+    - [Chris Webb Developer Portfolio Website](#chris-webb-developer-portfolio-website)
+    - [Photography Portfolio Builder](#photography-portfolio-builder)
+    - [Kelly Daniels Photography Website](#kelly-daniels-photography-website)
+- [Skills](#skills)
+- [Courses](#courses)
 
 ## Contact Details
 [webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)  
@@ -105,7 +129,6 @@ Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - *
 - Photography Skills
 
 #### Activities & Societies
-
 - Activities and societies: Language (Spanish - Foundation) & Intercultural Awareness (Sep 2013 - Jul 2014)
 - Brighton Interior Architecture & Architecture Society (BIAAS) (Sep 2011 - Jul 2014)
 - Student Ambassador (Jul 2013 - Jul 1024)
@@ -187,7 +210,6 @@ Sep 2017 - Oct 2017
 - Fully Responsive Design and UX
 
 ## Skills
-
 - Full-Stack Development
 - Mobile Application Development
 - Responsive Web Design
@@ -233,7 +255,6 @@ Sep 2017 - Oct 2017
 
 
 ## Courses
-
 - AWS DeepRacer: Building a Reinforcement Learning Model - **Issued Nov 2023**
 - Artificial Intelligence Foundations: Machine Learning - **Issued Nov 2023**
 - Machine Learning with Python: Foundations - **Issued Nov 2023**

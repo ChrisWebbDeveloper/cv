@@ -102,7 +102,7 @@ Feb 2018 - Present, Hybrid
 
 <details>
     <summary>
-        <h4 style="margin-top:0">General Clinical Administrator - Paediatrics</h4>
+        <h4>General Clinical Administrator - Paediatrics</h4>
         <p>Oct 2017 - Feb 2018, On-site</p>
     </summary>
     <ul>
@@ -117,7 +117,7 @@ Feb 2018 - Present, Hybrid
 
 <details>
     <summary>
-        <h4 style="margin-top:0">General Clinical Administrator - Outpatients</h4>
+        <h4>General Clinical Administrator - Outpatients</h4>
         <p>Dec 2016 - Oct 2017, On-site</p>
     </summary>
     <ul>
@@ -150,9 +150,9 @@ Nottingham, UK, On-site
 
 <details>
     <summary>
-        <h4 style="margin-top:0">Kitchen Associate</h4>
+        <h4>Kitchen Associate</h4>
         <p>Jul 2014 - Jul 2016</p>
-    </summary>
+    </summary>    
     <ul>
         <li>Worked in a team & communicating effectively for the best results</li>
         <li>Followed Standard Operating Procedures that require use of delicate equipment and information in a professional manner</li>
@@ -163,61 +163,83 @@ Nottingham, UK, On-site
 
 ## Education
 
-### University of Brighton
-Sep 2011 - Jul 2014, Brighton, UK
+<details>
+    <summary>
+        <h3>University of Brighton</h3>
+        <p>Sep 2011 - Jul 2014, Brighton, UK</p>
+        <p>Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - <strong>2:1</strong></p>
+    </summary>
+    <ul>
+        <li>The implementation, design and history of architecture</li>
+        <li>Technology and building methods</li>
+        <li>Architectural Movements</li>
+        <li>Drawing techniques</li>
+        <li>Model Building</li>
+        <li>UK Building Regulations</li>
+        <li>Writing essays and producing documents using Adobe Suite and CAD software</li>
+        <li>Reprographics and printing methods</li>
+        <li>Time management</li>
+        <li>Photography Skills</li>
+    </ul>
 
-Bachelor of Arts - BA in Architecture, Second Class Honours (Upper Division) - **2:1**
-
-- The implementation, design and history of architecture
-- Technology and building methods
-- Architectural Movements
-- Drawing techniques
-- Model Building
-- UK Building Regulations
-- Writing essays and producing documents using Adobe Suite and CAD software
-- Reprographics and printing methods
-- Time management
-- Photography Skills
-
-#### Activities & Societies
-- Activities and societies: Language (Spanish - Foundation) & Intercultural Awareness (Sep 2013 - Jul 2014)
-- Brighton Interior Architecture & Architecture Society (BIAAS) (Sep 2011 - Jul 2014)
-- Student Ambassador (Jul 2013 - Jul 1024)
-- Exhibition Presenter in Brighton Art Degree Show (Jul 2014)
-- Exhibition Steward/Security for Brighton Art Degree Show 2014 (Jul 2014)
-- Build/Design Assistant for Brighton Art Degree Show (Jun 2013, Jun - Jul 2014)
-- Member of Photography Society (Sep 2012 - Jul 2013)
+    <h4>Activities & Societies</h4>
+    <ul>
+        <li>Activities and societies: Language (Spanish - Foundation) & Intercultural Awareness (Sep 2013 - Jul 2014)</li>
+        <li>Brighton Interior Architecture & Architecture Society (BIAAS) (Sep 2011 - Jul 2014)</li>
+        <li>Student Ambassador (Jul 2013 - Jul 1024)</li>
+        <li>Exhibition Presenter in Brighton Art Degree Show (Jul 2014)</li>
+        <li>Exhibition Steward/Security for Brighton Art Degree Show 2014 (Jul 2014)</li>
+        <li>Build/Design Assistant for Brighton Art Degree Show (Jun 2013, Jun - Jul 2014)</li>
+        <li>Member of Photography Society (Sep 2012 - Jul 2013)</li>
+    </ul>
+</details>
 
 
 ### Palmer Catholic Academy (formerly Canon Palmer Catholic School)
 Ilford, London, UK
 
-#### A Levels
-Sep 2009 - Jul 2011
+<details>
+    <summary>
+        <h4>A Levels</h4>
+        <p>Sep 2009 - Jul 2011</p>
+    </summary>
+    <ul>
+        <li>Mathematics - <strong>A*</strong></li>
+        <li>Physics - <strong>A</strong></li>
+        <li>Art, Craft & Design - <strong>B</strong></li>
+    </ul>
+</details>
 
-- Mathematics - **A\***
-- Physics - **A**
-- Art, Craft & Design - **B**
+<details>
+    <summary>
+        <h4>AS Levels</h4>
+        <p>Sep 2009 - Jul 2010</p>
+    </summary>
+    <ul>
+        <li>Information Technology - <strong>B</strong></li>
+    </ul>
+</details>
 
-#### AS Levels
-Sep 2009 - Jul 2010
+<details>
+    <summary>
+        <h4>GCSEs</h4>
+        <p>Sep 2007 - Jul 2009</p>
+    </summary>
+    <ul>
+        <li>FSMQ - Additional Mathematics - <strong>A</strong></li>
+        <li>Art and Design - <strong>A*</strong></li>
+        <li>Biology - <strong>A*</strong></li>
+        <li>Chemistry - <strong>A*</strong></li>
+        <li>Mathematics - <strong>A*</strong></li>
+        <li>Physics - <strong>A*</strong></li>
+        <li>Statistics - <strong>A*</strong></li>
+        <li>English Literature - <strong>A</strong></li>
+        <li>Information and Communication Technologies - <strong>A</strong></li>
+        <li>Religious Studies - <strong>A</strong></li>
+        <li>English Language - <strong>B</strong></li>
+    </ul>
+</details>
 
-- Information Technology - **B**
-
-#### GCSEs
-Sep 2009 - Jul 2011
-
-- FSMQ - Additional Mathematics - **A**
-- Art and Design - **A\***
-- Biology - **A\***
-- Chemistry - **A\***
-- Mathematics - **A\***
-- Physics - **A\***
-- Statistics - **A\***
-- English Literature - **A**
-- Information and Communication Technologies - **A**
-- Religious Studies - **A**
-- English Language - **B**
 
 ## Projects
 

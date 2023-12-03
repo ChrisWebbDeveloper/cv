@@ -102,7 +102,7 @@ Feb 2018 - Present, Hybrid
 
 <details>
     <summary>
-        <h4>General Clinical Administrator - Paediatrics</h4>
+        <h4 style="margin-top:0">General Clinical Administrator - Paediatrics</h4>
         <p>Oct 2017 - Feb 2018, On-site</p>
     </summary>
     <ul>
@@ -117,7 +117,7 @@ Feb 2018 - Present, Hybrid
 
 <details>
     <summary>
-        <h4>General Clinical Administrator - Outpatients</h4>
+        <h4 style="margin-top:0">General Clinical Administrator - Outpatients</h4>
         <p>Dec 2016 - Oct 2017, On-site</p>
     </summary>
     <ul>
@@ -136,7 +136,7 @@ Nottingham, UK, On-site
 
 <details>
     <summary>
-        <h4>Bar Team Leader</h4>
+        <h4 style="margin-top:0">Bar Team Leader</h4>
         <p>Jul 2016 - Dec 2016</p>
     </summary>
     <ul>
@@ -150,7 +150,7 @@ Nottingham, UK, On-site
 
 <details>
     <summary>
-        <h4>Kitchen Associate</h4>
+        <h4 style="margin-top:0">Kitchen Associate</h4>
         <p>Jul 2014 - Jul 2016</p>
     </summary>
     <ul>

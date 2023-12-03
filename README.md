@@ -2,39 +2,71 @@
 ### Software & Web Developer
 **CV available in .docx and .pdf formats**
 
-### Table of Contents
-- [Contact Details](#contact-details)
-- [About Me](#about-me)
-- [Experience](#experience)
-    - [Nottingham University Hospitals NHS Trust](#nottingham-university-hospitals-nhs-trust)
-        - [Product Developer](#product-developer)
-        - [General Clinical Administrator - Paediatrics](#general-clinical-administrator---paediatrics)
-        - [General Clinical Administrator - Outpatients](#general-clinical-administrator---outpatients)
-    - [JD Wetherspoon - Lloyds No.1 Bar](#jd-wetherspoon---lloyds-no1-bar)
-        - [Bar Team Leader](#bar-team-leader)
-        - [Kitchen Associate](#kitchen-associate)
-- [Education](#education)
-    - [University of Brighton](#university-of-brighton)
-        - [Activities & Societies](#activities--societies)
-    - [Palmer Catholic Academy (formerly Canon Palmer Catholic School)](#palmer-catholic-academy-formerly-canon-palmer-catholic-school)
-        - [A Levels](#a-levels)
-        - [AS Levels](#as-levels)
-        - [GCSEs](#gcses)
-- [Projects](#projects)
-    - [Archipelago Game](#archipelago-game)
-    - [Chris Webb Developer Portfolio Website](#chris-webb-developer-portfolio-website)
-    - [Photography Portfolio Builder](#photography-portfolio-builder)
-    - [Kelly Daniels Photography Website](#kelly-daniels-photography-website)
-- [Skills](#skills)
-- [Courses](#courses)
+<details>
+<summary>Table of Contents</summary>
+    <ul>
+    <li><a href="#contact-details">Contact Details</a></li>
+        <li><a href="#about-me">About Me</a></li>
+        <li>
+            <a href="#experience">Experience</a>
+            <ul>
+                <li>
+                    <a href="#nottingham-university-hospitals-nhs-trust">Nottingham University Hospitals NHS Trust</a>
+                    <ul>
+                        <li><a href="#product-developer">Product Developer</a></li>
+                        <li><a href="#general-clinical-administrator---paediatrics">General Clinical Administrator - Paediatrics</a></li>
+                        <li><a href="#general-clinical-administrator---outpatients">General Clinical Administrator - Outpatients</a></li>
+                    </ul>
+                </li>                
+                <li>
+                    <a href="#jd-wetherspoon---lloyds-no1-bar">JD Wetherspoon - Lloyds No.1 Bar</a>
+                    <ul>
+                        <li><a href="#bar-team-leader">Bar Team Leader</a></li>
+                        <li><a href="#kitchen-associate">Kitchen Associate</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#education">Education</a>
+            <ul>
+                <li>
+                    <a href="#university-of-brighton">University of Brighton</a>
+                    <ul>
+                        <li><a href="#activities--societies">Activities & Societies</a></li>
+                    </ul>
+                </li>                
+                <li>
+                    <a href="#palmer-catholic-academy-formerly-canon-palmer-catholic-school">Palmer Catholic Academy (formerly Canon Palmer Catholic School)</a>
+                    <ul>
+                        <li><a href="#a-levels">A Levels</a></li>
+                        <li><a href="#as-levels">AS Levels</a></li>
+                        <li><a href="#gcses">GCSEs</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#projects">Projects</a>
+            <ul>
+                <li><a href="#archipelago-game">Archipelago Game</a></li>                
+                <li><a href="#chris-webb-developer-portfolio-website">Chris Webb Developer Portfolio Website</a></li>
+                <li><a href="#photography-portfolio-builder">Photography Portfolio Builder</a></li>
+                <li><a href="#kelly-daniels-photography-website">Kelly Daniels Photography Website</a></li>
+            </ul>
+        </li>          
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#courses">Courses</a></li>
+    </ul>
+</details>
 
 ## Contact Details
-[webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)  
-Nottingham, UK  
-Willing to relocate to London, UK  
-[Website](https://chriswebbdeveloper.co.uk)  
-[LinkedIn](http://linkedin.com/in/webb-christopher)  
-[GitHub](http://github.com/ChrisWebbDeveloper)
+:envelope: &nbsp; [webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)  
+:uk: &nbsp; Nottingham, UK  
+:pushpin: &nbsp; Willing to relocate to London, UK  
+:globe_with_meridians: &nbsp; [Website](https://chriswebbdeveloper.co.uk)  
+:briefcase: &nbsp; [LinkedIn](http://linkedin.com/in/webb-christopher)  
+:octocat: &nbsp; [GitHub](http://github.com/ChrisWebbDeveloper)
 
 
 ## About Me
@@ -44,7 +76,7 @@ Working as a Product Developer for the NHS, I have worked to develop robust Java
 
 As well as web applications, I have also designed and deployed hybrid applications (Ionic Framework) to work alongside these products, also using Angular. These skills I have gained have allowed me to work to mentor and pass on this knowledge to fellow developers in my team.
 
-This passion has also carried over to my personal projects, where I have pushed the boundaries of my knowledge. I have experimented with Laravel and SQLite to build a simple website backend, using ReactJS as a clean and user-friendly front-end. I have worked with ASP&#46;NET Core and C# to build workable web applications. I have also used Entity Framework in this to explore what is possible with building databases. This knowledge of C# and design practice I have also used to try my hand at game development, initially in Unity and now in Godot.
+This passion has also carried over to my personal projects, where I have pushed the boundaries of my knowledge. I have experimented with Laravel and SQLite to build a simple website backend, using React as a clean and user-friendly front-end. I have worked with ASP.NET Core and C# to build workable web applications. I have also used Entity Framework in this to explore what is possible with building databases. This knowledge of C# and design practice I have also used to try my hand at game development, initially in Unity and now in Godot.
 
 Regardless of what I craft, I aim to bring the same passion for tinkering and problem-solving.
 
@@ -193,7 +225,7 @@ Mar 2018 - Jul 2022
 Aug 2021 - Feb 2022
 
 - Website to display photos inside portfolios, managed by signing in to upload, provide details and format the website accordingly
-- Backend written in ASP&#46;NET Core with C#, connecting to a MySQL database
+- Backend written in ASP.NET Core with C#, connecting to a MySQL database
 - Frontend written in HTML5 and Typescript with SASS for styling
 - Uses Entity Framework to build and maintain the database
 - Gulp included from automating processes, such as compilation and minifying
@@ -210,17 +242,18 @@ Sep 2017 - Oct 2017
 - Fully Responsive Design and UX
 
 ## Skills
+
 - Full-Stack Development
-- Mobile Application Development
+- ![Mobile Application Development](https://img.shields.io/badge/Mobile%20Application%20Development-444444?style=for-the-badge)
 - Responsive Web Design
-- PHP
-- SQL
-- PostgreSQL
-- Microsoft SQL Server
-- MySQL
-- ASP&#46;NET Core
-- ASP&#46;NET MVC
-- C#
+- [![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+- ![SQL](https://img.shields.io/badge/SQL-444444?style=for-the-badge)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-669AC6?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+- [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0078D4?style=for-the-badge&logo=microsoftsqlserver)](https://microsoft.com/en-gb/sql-server)
+- [![MySQL](https://img.shields.io/badge/MySQL-2b5d80?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+- [![ASP.NET Core](https://img.shields.io/badge/ASP.Net%20Core-5027D5?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [![ASP.NET MVC](https://img.shields.io/badge/ASP.Net%20MVC-5027D5?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
+- [![C#](https://img.shields.io/badge/C%23-6A1577?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - Entity Framework (EF) Core
 - REST APIs
 - Angular
@@ -239,44 +272,45 @@ Sep 2017 - Oct 2017
 - Waterfall Methodologies
 - Team Leadership
 - MongoDB
-- Laravel
-- ReactJS
-- SQLite
-- Gulp.js
+
+- [![Laravel](https://img.shields.io/badge/Laravel-f05340?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+- [![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react)](https://react.com)
+- [![SQLite](https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite)](https://sqlite.org)
+- [![Gulp.js](https://img.shields.io/badge/Gulp%2Ejs-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 - GIMP
 - Search Engine Optimisation (SEO)
 - Godot
-- Unity
-- Python
+- [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
+- [![Python](https://img.shields.io/badge/Python-FFDA4C?style=for-the-badge&logo=python)](https://python.org/)
 - WordPress
 - Microsoft Power Apps
 - Machine Learning
-- Amazon Web Services (AWS)
+- [![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
 
 ## Courses
-- AWS DeepRacer: Building a Reinforcement Learning Model - **Issued Nov 2023**
-- Artificial Intelligence Foundations: Machine Learning - **Issued Nov 2023**
-- Machine Learning with Python: Foundations - **Issued Nov 2023**
-- Using PowerApps with Excel, OneDrive, and SharePoint - **Issued Feb 2023**
-- Angular Forms - **Issued Dec 2022**
-- Angular Patterns & Best Practices - **Issued Dec 2022**
-- JavaScript Promises and Async Programming - **Issued Nov 2022**
-- ASP&#46;NET Core Fundamentals - **Issued Jun 2021**
-- Creating Object-oriented TypeScript Code - **Issued Feb 2021**
-- Getting Started with Laravel (PHP Framework) 7 - The Basics - **Issued Feb 2021**
-- High Performance PHP - **Issued Nov 2020**
-- React 17: Getting Started - **Issued Nov 2020**
-- RESTful Web Services with PHP and Laravel 7 - **Issued Oct 2020**
-- React: The Big Picture - **Issued May 2020**
-- TypeScript 4: Getting Started - **Issued May 2020**
-- TypeScript: The Big Picture - **Issued Apr 2020**
-- C# Fundamentals - **Issued Nov 2019**
-- Python: Getting Started - **Issued Nov 2019**
-- Building Applications with ASP&#46;NET MVC 4 - **Issued Jan 2019**
-- Angular: Getting Started - **Issued Nov 2018**
-- Angular 6: The Big Picture - **Issued Oct 2018**
-- The Complete Web Developer Course 2.0 - **Issued Oct 2018**
-- ASP&#46;NET MVC 5 Fundamentals - **Issued Jul 2018**
-- Advanced Databases and SQL Querying - **Issued May 2018**
-- Introduction to Databases and SQL Querying - **Issued Jan 2018**
+- [AWS DeepRacer: Building a Reinforcement Learning Model - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/7b0e29d7bdb44e4b727734976fb266719678b833ffef1e25adff46c43faee0e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [Artificial Intelligence Foundations: Machine Learning - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/ffb54cb6199877434f335c410322aabbef0f222903b86792bf75c6f0eb3e707c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [Machine Learning with Python: Foundations - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/fe4c4e2f0e93f2e131060a7b257a7999b116edaaec68a78a3350f146244f1968?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [Using PowerApps with Excel, OneDrive, and SharePoint - **Issued Feb 2023**](https://app.pluralsight.com/learner/user/courses/v2/d1dbcaf8-770c-4d0c-a66f-6ef87e90ebfa/certificate)
+- [Angular Forms - **Issued Dec 2022**](https://app.pluralsight.com/learner/user/courses/v2/604a909e-ed7f-4d4b-949d-b341dc1d5046/certificate)
+- [Angular Patterns & Best Practices - **Issued Dec 2022**](https://app.pluralsight.com/learner/user/courses/v2/1c10afe9-20c5-4766-9ab0-9f1e1aa09d41/certificate)
+- [JavaScript Promises and Async Programming - **Issued Nov 2022**](https://app.pluralsight.com/learner/user/courses/v2/db31b9c5-17a2-4bbb-984f-43fe0529f1c0/certificate)
+- [ASP.NET Core Fundamentals - **Issued Jun 2021**](https://app.pluralsight.com/learner/user/courses/v2/03451d2a-5d37-4365-9e6c-4faaea7f8e75/certificate)
+- [Creating Object-oriented TypeScript Code - **Issued Feb 2021**](https://app.pluralsight.com/learner/user/courses/v2/d39f3732-aa2b-4cc7-ae0f-802982a572e5/certificate)
+- [Getting Started with Laravel (PHP Framework) 7 - The Basics - **Issued Feb 2021**](https://app.pluralsight.com/learner/user/courses/v2/4a204009-4ddd-42a9-bab7-64c629910931/certificate)
+- [High Performance PHP - **Issued Nov 2020**](https://app.pluralsight.com/learner/user/courses/v2/d7186473-b782-4717-b141-8ff633594487/certificate)
+- [React 17: Getting Started - **Issued Nov 2020**](https://app.pluralsight.com/learner/user/courses/v2/cb023a50-6da5-40b7-8b24-ed3d0a140da0/certificate)
+- [RESTful Web Services with PHP and Laravel 7 - **Issued Oct 2020**](https://app.pluralsight.com/learner/user/courses/v2/c233bb92-8218-4c15-8ab4-cf2a503fad88/certificate)
+- [React: The Big Picture - **Issued May 2020**](https://app.pluralsight.com/learner/user/courses/v2/80fdd67f-b801-4bb8-bcd7-a0ba598643b5/certificate)
+- [TypeScript 4: Getting Started - **Issued May 2020**](https://app.pluralsight.com/learner/user/courses/v2/59ef547c-8bd8-473c-827d-9902af15ad46/certificate)
+- [TypeScript: The Big Picture - **Issued Apr 2020**](https://app.pluralsight.com/learner/user/courses/v2/e6195fca-42fb-4414-8fe8-95dae424d44e/certificate)
+- [C# Fundamentals - **Issued Nov 2019**](https://app.pluralsight.com/learner/user/courses/v2/0096b00d-2398-435a-82f7-3f5401408ab1/certificate)
+- [Python: Getting Started - **Issued Nov 2019**](https://app.pluralsight.com/learner/user/courses/v2/b0a60e87-4b9d-489d-8e40-ce5b692a6835/certificate)
+- [Building Applications with ASP.NET MVC 4 - **Issued Jan 2019**](https://app.pluralsight.com/learner/user/courses/v2/a8a4274a-6c6f-44da-8ea9-1d37df77a90c/certificate)
+- [Angular: Getting Started - **Issued Nov 2018**](https://app.pluralsight.com/learner/user/courses/v2/12d7d1cc-b3ec-40b2-b13e-3c35e8ba07a5/certificate)
+- [Angular 6: The Big Picture - **Issued Oct 2018**](https://app.pluralsight.com/learner/user/courses/v2/7c8fb1e8-044d-4067-9928-0ab7e25863f0/certificate)
+- [The Complete Web Developer Course 2.0 - **Issued Oct 2018**](https://www.udemy.com/certificate/UC-4R4U4I6C/)
+- [ASP.NET MVC 5 Fundamentals - **Issued Jul 2018**](https://app.pluralsight.com/learner/user/courses/v2/4ceee1b3-57d1-4f84-aea4-1d0f268779dd/certificate)
+- [Advanced Databases and SQL Querying - **Issued May 2018**](https://www.udemy.com/certificate/UC-D9DA83BP/)
+- [Introduction to Databases and SQL Querying - **Issued Jan 2018**](https://www.udemy.com/certificate/UC-CR9LU2N0/)

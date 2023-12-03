@@ -181,7 +181,6 @@ Nottingham, UK, On-site
         <li>Time management</li>
         <li>Photography Skills</li>
     </ul>
-
     <h4>Activities & Societies</h4>
     <ul>
         <li>Activities and societies: Language (Spanish - Foundation) & Intercultural Awareness (Sep 2013 - Jul 2014)</li>

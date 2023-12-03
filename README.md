@@ -100,47 +100,66 @@ Feb 2018 - Present, Hybrid
 - Communicating with a large team in a variety of departments to ensure projects and products are designed to the highest standard
 - Mentoring and training junior developers to Trust best practices and how to build in relevant technologies
 
-#### General Clinical Administrator - Paediatrics
-Oct 2017 - Feb 2018, On-site
+<details>
+    <summary>
+        <h4>General Clinical Administrator - Paediatrics</h4>
+        <p>Oct 2017 - Feb 2018, On-site</p>
+    </summary>
+    <ul>
+        <li>Typing via recorded dictation to produce letters to be signed and sent to relevant parties</li>
+        <li>Communicating with doctors and managers to ensure all relevant documents are correctly completed and sensitively handled to their respective recipients</li>
+        <li>Contacting parents or carers of children to arrange appointments and handling of sensitive information</li>
+        <li>Checking letters, emails, and reporting documents to see if they have been sufficiently recorded, and to record them where needed</li>
+        <li>Collecting and distributing confidential information to the relevant departments in the building</li>
+        <li>Tracking and ordering old archived data where applicable</li>
+    </ul>
+</details>
 
-- Typing via recorded dictation to produce letters to be signed and sent to relevant parties
-- Communicating with doctors and managers to ensure all relevant documents are correctly completed and sensitively handled to their respective recipients
-- Contacting parents or carers of children to arrange appointments and handling of sensitive information
-- Checking letters, emails, and reporting documents to see if they have been sufficiently recorded, and to record them where needed
-- Collecting and distributing confidential information to the relevant departments in the building
-- Tracking and ordering old archived data where applicable
-
-#### General Clinical Administrator - Outpatients
-Dec 2016 - Oct 2017, On-site
-
-- Regular collection, maintenance and record-keeping of medical case-notes for patient appointment
-- Followed strict guidelines in relation to information governance and patient confidentiality
-- Inputted large amounts of data accurately and in a time-sensitive capacity
-- Communicated both written and verbally to various departments to gather relevant information
-- Worked on own direction for extended periods of time to both resolve my own projects as well as work to assist those where necessary
-- Use of specialised software for the purpose of fulfilling my role to the fullest extent
-- Used my own initiative to resolve unexpected issues to my best ability
-
+<details>
+    <summary>
+        <h4>General Clinical Administrator - Outpatients</h4>
+        <p>Dec 2016 - Oct 2017, On-site</p>
+    </summary>
+    <ul>
+        <li>Regular collection, maintenance and record-keeping of medical case-notes for patient appointment</li>
+        <li>Followed strict guidelines in relation to information governance and patient confidentiality</li>
+        <li>Inputted large amounts of data accurately and in a time-sensitive capacity</li>
+        <li>Communicated both written and verbally to various departments to gather relevant information</li>
+        <li>Worked on own direction for extended periods of time to both resolve my own projects as well as work to assist those where necessary</li>
+        <li>Use of specialised software for the purpose of fulfilling my role to the fullest extent</li>
+        <li>Used my own initiative to resolve unexpected issues to my best ability</li>
+    </ul>
+</details>
 
 ### JD Wetherspoon - Lloyds No.1 Bar
 Nottingham, UK, On-site
 
-#### Bar Team Leader
-Jul 2016 - Dec 2016
+<details>
+    <summary>
+        <h4>Bar Team Leader</h4>
+        <p>Jul 2016 - Dec 2016</p>
+    </summary>
+    <ul>
+        <li>Served customers as quickly and as professionally as possible</li>
+        <li>Dealt with any complaints, damages, injuries, or any other issues that arise</li>
+        <li>Managed a team of up to 26 people in a hectic work environment, ensuring all employees are working to the best of their ability and addressing areas that could be improved</li>
+        <li>Ensured time-specific jobs were fulfilled to the correct procedure</li>
+        <li>Maintained high hygiene and fire safety standards</li>
+    </ul>
+</details>
 
-- Served customers as quickly and as professionally as possible
-- Dealt with any complaints, damages, injuries, or any other issues that arise
-- Managed a team of up to 26 people in a hectic work environment, ensuring all employees are working to the best of their ability and addressing areas that could be improved
-- Ensured time-specific jobs were fulfilled to the correct procedure
-- Maintained high hygiene and fire safety standards
-
-#### Kitchen Associate
-Jul 2014 - Jul 2016
-
-- Worked in a team & communicating effectively for the best results
-- Followed Standard Operating Procedures that require use of delicate equipment and information in a professional manner
-- Filled out food orders to ensure correct stock levels are maintained
-- Kept a daily hard-copy of actions performed under company policy
+<details>
+    <summary>
+        <h4>Kitchen Associate</h4>
+        <p>Jul 2014 - Jul 2016</p>
+    </summary>
+    <ul>
+        <li>Worked in a team & communicating effectively for the best results</li>
+        <li>Followed Standard Operating Procedures that require use of delicate equipment and information in a professional manner</li>
+        <li>Filled out food orders to ensure correct stock levels are maintained</li>
+        <li>Kept a daily hard-copy of actions performed under company policy</li>
+    </ul>
+</details>
 
 ## Education
 

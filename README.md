@@ -243,9 +243,9 @@ Sep 2017 - Oct 2017
 
 ## Skills
 
-- Full-Stack Development
+- ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-444444?style=for-the-badge)
 - ![Mobile Application Development](https://img.shields.io/badge/Mobile%20Application%20Development-444444?style=for-the-badge)
-- Responsive Web Design
+- ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-444444?style=for-the-badge)
 - [![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 - ![SQL](https://img.shields.io/badge/SQL-444444?style=for-the-badge)
 - [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-669AC6?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
@@ -254,44 +254,43 @@ Sep 2017 - Oct 2017
 - [![ASP.NET Core](https://img.shields.io/badge/ASP.Net%20Core-5027D5?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 - [![ASP.NET MVC](https://img.shields.io/badge/ASP.Net%20MVC-5027D5?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
 - [![C#](https://img.shields.io/badge/C%23-6A1577?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- Entity Framework (EF) Core
-- REST APIs
-- Angular
-- TypeScript
-- Ionic Framework
-- JavaScript
-- jQuery
-- Bootstrap
-- SASS
-- CSS3
-- HTML5
-- Git
-- Version Control
-- Unit Testing
-- Agile Methodologies
-- Waterfall Methodologies
-- Team Leadership
-- MongoDB
-
+- [![Entity Framework (EF) Core](https://img.shields.io/badge/Entity%20Framework%20(EF)%20Core-5027D5?style=for-the-badge&logo=dotnet)](https://learn.microsoft.com/en-us/ef/core/)
+- ![REST APIs](https://img.shields.io/badge/REST%20APIs-444444?style=for-the-badge)
+- [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
+- [![Ionic Framework](https://img.shields.io/badge/Ionic%20Framework-176BFF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=78CFF5)](https://jquery.com/)
+- [![Bootstrap](https://img.shields.io/badge/Bootstrap-702CF5?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+- [![SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+- [![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3)](https://w3.org/Style/CSS/Overview.en.html)
+- [![HTML5](https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [![Git](https://img.shields.io/badge/Git-EEEEE6?style=for-the-badge&logo=git)](https://git-scm.com/)
+- ![Version Control](https://img.shields.io/badge/Version%20Control-444444?style=for-the-badge)
+- ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-444444?style=for-the-badge)
+- ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-444444?style=for-the-badge)
+- ![Waterfall Methodologies](https://img.shields.io/badge/Waterfall%20Methodologies-444444?style=for-the-badge)
+- ![Team Leadership](https://img.shields.io/badge/Team%20Leadership-444444?style=for-the-badge)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb)](https://mongodb.com/)
 - [![Laravel](https://img.shields.io/badge/Laravel-f05340?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 - [![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react)](https://react.com)
 - [![SQLite](https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite)](https://sqlite.org)
 - [![Gulp.js](https://img.shields.io/badge/Gulp%2Ejs-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
-- GIMP
-- Search Engine Optimisation (SEO)
-- Godot
+- [![GIMP](https://img.shields.io/badge/GIMP-0E2426?style=for-the-badge&logo=gimp)](https://gimp.org/)
+- ![Search Engine Optimisation (SEO)](https://img.shields.io/badge/Search%20Engine%20Optimisation%20(SEO)-444444?style=for-the-badge)
+- [![Godot](https://img.shields.io/badge/Godot-4588B9?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 - [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)](https://unity.com/)
 - [![Python](https://img.shields.io/badge/Python-FFDA4C?style=for-the-badge&logo=python)](https://python.org/)
-- WordPress
-- Microsoft Power Apps
-- Machine Learning
-- [![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+- [![WordPress](https://img.shields.io/badge/WordPress-207196?style=for-the-badge&logo=wordpress)](https://wordpress.com/)
+- [![Microsoft Power Apps](https://img.shields.io/badge/Microsoft%20Power%20Apps-742774?style=for-the-badge&logo=powerapps)](https://powerapps.microsoft.com/en-gb/)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-444444?style=for-the-badge)
+- [![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=EC912D)](https://aws.amazon.com/)
 
 
 ## Courses
-- [AWS DeepRacer: Building a Reinforcement Learning Model - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/7b0e29d7bdb44e4b727734976fb266719678b833ffef1e25adff46c43faee0e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
-- [Artificial Intelligence Foundations: Machine Learning - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/ffb54cb6199877434f335c410322aabbef0f222903b86792bf75c6f0eb3e707c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
-- [Machine Learning with Python: Foundations - **Issued Nov 2023**](https://www.linkedin.com/learning/certificates/fe4c4e2f0e93f2e131060a7b257a7999b116edaaec68a78a3350f146244f1968?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [AWS DeepRacer: Building a Reinforcement Learning Model - **Issued Nov 2023**](https://linkedin.com/learning/certificates/7b0e29d7bdb44e4b727734976fb266719678b833ffef1e25adff46c43faee0e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [Artificial Intelligence Foundations: Machine Learning - **Issued Nov 2023**](https://linkedin.com/learning/certificates/ffb54cb6199877434f335c410322aabbef0f222903b86792bf75c6f0eb3e707c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- [Machine Learning with Python: Foundations - **Issued Nov 2023**](https://linkedin.com/learning/certificates/fe4c4e2f0e93f2e131060a7b257a7999b116edaaec68a78a3350f146244f1968?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
 - [Using PowerApps with Excel, OneDrive, and SharePoint - **Issued Feb 2023**](https://app.pluralsight.com/learner/user/courses/v2/d1dbcaf8-770c-4d0c-a66f-6ef87e90ebfa/certificate)
 - [Angular Forms - **Issued Dec 2022**](https://app.pluralsight.com/learner/user/courses/v2/604a909e-ed7f-4d4b-949d-b341dc1d5046/certificate)
 - [Angular Patterns & Best Practices - **Issued Dec 2022**](https://app.pluralsight.com/learner/user/courses/v2/1c10afe9-20c5-4766-9ab0-9f1e1aa09d41/certificate)
@@ -310,7 +309,7 @@ Sep 2017 - Oct 2017
 - [Building Applications with ASP.NET MVC 4 - **Issued Jan 2019**](https://app.pluralsight.com/learner/user/courses/v2/a8a4274a-6c6f-44da-8ea9-1d37df77a90c/certificate)
 - [Angular: Getting Started - **Issued Nov 2018**](https://app.pluralsight.com/learner/user/courses/v2/12d7d1cc-b3ec-40b2-b13e-3c35e8ba07a5/certificate)
 - [Angular 6: The Big Picture - **Issued Oct 2018**](https://app.pluralsight.com/learner/user/courses/v2/7c8fb1e8-044d-4067-9928-0ab7e25863f0/certificate)
-- [The Complete Web Developer Course 2.0 - **Issued Oct 2018**](https://www.udemy.com/certificate/UC-4R4U4I6C/)
+- [The Complete Web Developer Course 2.0 - **Issued Oct 2018**](https://udemy.com/certificate/UC-4R4U4I6C/)
 - [ASP.NET MVC 5 Fundamentals - **Issued Jul 2018**](https://app.pluralsight.com/learner/user/courses/v2/4ceee1b3-57d1-4f84-aea4-1d0f268779dd/certificate)
-- [Advanced Databases and SQL Querying - **Issued May 2018**](https://www.udemy.com/certificate/UC-D9DA83BP/)
-- [Introduction to Databases and SQL Querying - **Issued Jan 2018**](https://www.udemy.com/certificate/UC-CR9LU2N0/)
+- [Advanced Databases and SQL Querying - **Issued May 2018**](https://udemy.com/certificate/UC-D9DA83BP/)
+- [Introduction to Databases and SQL Querying - **Issued Jan 2018**](https://udemy.com/certificate/UC-CR9LU2N0/)

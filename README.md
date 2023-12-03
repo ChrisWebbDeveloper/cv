@@ -3,7 +3,7 @@
 **CV available in .docx and .pdf formats**
 
 <details>
-<summary>Table of Contents</summary>
+    <summary>Table of Contents</summary>
     <ul>
     <li><a href="#contact-details">Contact Details</a></li>
         <li><a href="#about-me">About Me</a></li>
@@ -17,7 +17,7 @@
                         <li><a href="#general-clinical-administrator---paediatrics">General Clinical Administrator - Paediatrics</a></li>
                         <li><a href="#general-clinical-administrator---outpatients">General Clinical Administrator - Outpatients</a></li>
                     </ul>
-                </li>                
+                </li>
                 <li>
                     <a href="#jd-wetherspoon---lloyds-no1-bar">JD Wetherspoon - Lloyds No.1 Bar</a>
                     <ul>
@@ -35,7 +35,7 @@
                     <ul>
                         <li><a href="#activities--societies">Activities & Societies</a></li>
                     </ul>
-                </li>                
+                </li>
                 <li>
                     <a href="#palmer-catholic-academy-formerly-canon-palmer-catholic-school">Palmer Catholic Academy (formerly Canon Palmer Catholic School)</a>
                     <ul>
@@ -54,7 +54,7 @@
                 <li><a href="#photography-portfolio-builder">Photography Portfolio Builder</a></li>
                 <li><a href="#kelly-daniels-photography-website">Kelly Daniels Photography Website</a></li>
             </ul>
-        </li>          
+        </li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#courses">Courses</a></li>
     </ul>
@@ -152,7 +152,7 @@ Nottingham, UK, On-site
     <summary>
         <h4>Kitchen Associate</h4>
         <p>Jul 2014 - Jul 2016</p>
-    </summary>    
+    </summary>
     <ul>
         <li>Worked in a team & communicating effectively for the best results</li>
         <li>Followed Standard Operating Procedures that require use of delicate equipment and information in a professional manner</li>

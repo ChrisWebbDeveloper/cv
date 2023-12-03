@@ -300,7 +300,7 @@ Sep 2017 - Oct 2017
 - [![Ionic Framework](https://img.shields.io/badge/Ionic%20Framework-176BFF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
 - [![JavaScript](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=78CFF5)](https://jquery.com/)
-- [![Bootstrap](https://img.shields.io/badge/Bootstrap-702CF5?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
+- [![Bootstrap](https://img.shields.io/badge/Bootstrap-702CF5?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 - [![SASS](https://img.shields.io/badge/SASS-CF649A?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 - [![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3)](https://w3.org/Style/CSS/Overview.en.html)
 - [![HTML5](https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)

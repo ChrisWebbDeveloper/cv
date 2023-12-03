@@ -5,7 +5,7 @@
 <details>
     <summary>Table of Contents</summary>
     <ul>
-    <li><a href="#contact-details">Contact Details</a></li>
+        <li><a href="#contact-details">Contact Details</a></li>
         <li><a href="#about-me">About Me</a></li>
         <li>
             <a href="#experience">Experience</a>
@@ -162,7 +162,6 @@ Nottingham, UK, On-site
 </details>
 
 ## Education
-
 <details>
     <summary>
         <h3>University of Brighton</h3>
@@ -281,8 +280,8 @@ Sep 2017 - Oct 2017
 - Built-in blog
 - Fully Responsive Design and UX
 
-## Skills
 
+## Skills
 - ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-444444?style=for-the-badge)
 - ![Mobile Application Development](https://img.shields.io/badge/Mobile%20Application%20Development-444444?style=for-the-badge)
 - ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-444444?style=for-the-badge)

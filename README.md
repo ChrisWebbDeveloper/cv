@@ -50,9 +50,11 @@
             <a href="#projects">Projects</a>
             <ul>
                 <li><a href="#archipelago-game">Archipelago Game</a></li>                
-                <li><a href="#chris-webb-developer-portfolio-website">Chris Webb Developer Portfolio Website</a></li>
+                <li><a href="#chris-webb-developer-(v3)">Chris Webb Developer (v3)</a></li>
+                <li><a href="#chris-webb-developer-(v2)">Chris Webb Developer (v2)</a></li>
                 <li><a href="#photography-portfolio-builder">Photography Portfolio Builder</a></li>
-                <li><a href="#kelly-daniels-photography-website">Kelly Daniels Photography Website</a></li>
+                <li><a href="#chris-webb-developer-(v1)">Chris Webb Developer (v1)</a></li>
+                <li><a href="#kelly-daniels-photography">Kelly Daniels Photography Website</a></li>
             </ul>
         </li>
         <li><a href="#skills">Skills</a></li>
@@ -76,7 +78,7 @@ Working as a Product Developer for the NHS, I have worked to develop robust Java
 
 As well as web applications, I have also designed and deployed hybrid applications (Ionic Framework) to work alongside these products, also using Angular. These skills I have gained have allowed me to work to mentor and pass on this knowledge to fellow developers in my team.
 
-This passion has also carried over to my personal projects, where I have pushed the boundaries of my knowledge. I have experimented with Laravel and SQLite to build a simple website backend, using React as a clean and user-friendly front-end. I have worked with ASP.NET Core and C# to build workable web applications. I have also used Entity Framework in this to explore what is possible with building databases. This knowledge of C# and design practice I have also used to try my hand at game development, initially in Unity and now in Godot.
+This passion has also carried over to my personal projects, where I have pushed the boundaries of my knowledge. I have experimented with Laravel and SQLite to build a simple website back-end, using React as a clean and user-friendly front-end. I have worked with ASP.NET Core and C# to build workable web applications. I have also used Entity Framework in this to explore what is possible with building databases. This knowledge of C# and design practice I have also used to try my hand at game development, initially in Unity and now in Godot.
 
 Regardless of what I craft, I aim to bring the same passion for tinkering and problem-solving.
 
@@ -88,7 +90,7 @@ Nottingham, UK
 #### Product Developer
 Feb 2018 - Present, Hybrid
 
-- Designing and building full-stack applications to be used across the Trust, primarily in a PHP and PostgreSQL backend, and HTML5 / SASS / jQuery frontend, including building REST API calls
+- Designing and building full-stack applications to be used across the Trust, primarily in a PHP and PostgreSQL back-end, and HTML5 / SASS / jQuery front-end, including building REST API calls
 - Designing and deploying hybrid mobile applications in the Ionic App Framework, utilising Angular and REST API calls
 - Updating existing projects to include new features and debug issues
 - Providing templates and guides of best practices for technologies used and how best to use them
@@ -241,7 +243,7 @@ Ilford, London, UK
 
 ## Projects
 
-### Archipelago Game
+### Archipelago
 Apr 2022 - Present
 
 - Top-down 2D dungeon crawler game
@@ -250,33 +252,47 @@ Apr 2022 - Present
 - Written in C# using a variety of components to isolate logic functionality
 - Drawing 16x16 sprites in GIMP, combined into sprite sheets
 
-### Chris Webb Developer Portfolio Website
-Mar 2018 - Jul 2022
+### Chris Webb Developer (v3)
+Dec 2023 - Jan 2024
+
+- Portfolio website for web development
+- Built in Angular with SASS
+- Uses components to isolate functionality, as well as services, models and pipes to ma
+- Uses an API call to retrieve details to include in the website
+- Includes Unit Testing
+
+### Chris Webb Developer (v2)
+Aug 2021 - Jun 2022
 
 - Portfolio website for web development
 - Back-end built in Laravel / PHP with an SQLite database
-- Front-end built in ReactJS and SASS to be fully responsive
+- Front-end built in React and SASS to be fully responsive
 - Connects to an SQLite database via a single API to populate page information
 - Connects via SendGrid to send emails via a contact form
-- Evolved from standard HTML5 / CSS3 / jQuery into current format, and will be updated in the future to reflect further technologies
 
 ### Photography Portfolio Builder
 Aug 2021 - Feb 2022
 
 - Website to display photos inside portfolios, managed by signing in to upload, provide details and format the website accordingly
-- Backend written in ASP.NET Core with C#, connecting to a MySQL database
-- Frontend written in HTML5 and Typescript with SASS for styling
+- Back-end written in ASP.NET Core with C#, connecting to a MySQL database
+- Front-end written in HTML5 and Typescript with SASS for styling
 - Uses Entity Framework to build and maintain the database
 - Gulp included from automating processes, such as compilation and minifying
 
-### Kelly Daniels Photography Website
+### Chris Webb Developer (v1)
+Mar 2018 - Sep 2018
+
+- Portfolio website for web development
+- Built in HTML5, CSS3 and jQuery / JavaScript
+- Includes demos of languages / technologies learnt, including HTML5, CSS3, JavaScript, jQuery, PHP, MySQL, API calls and Python
+- Includes a PHP email form
+
+### Kelly Daniels Photography
 Sep 2017 - Oct 2017
 
-- Photography Portfolio designed in WordPress
+- Photography Portfolio website designed in WordPress
 - Custom PHP to affect website functionality
 - Custom CSS and editing customisation for desired layout
-- SEO for promotion
-- Analytics to observe user statistics
 - Built-in blog
 - Fully Responsive Design and UX
 

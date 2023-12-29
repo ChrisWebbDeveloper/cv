@@ -257,7 +257,7 @@ Dec 2023 - Jan 2024
 
 - Portfolio website for web development
 - Built in Angular with SASS
-- Uses components to isolate functionality, as well as services, models and pipes to ma
+- Uses components to isolate functionality, as well as services, models and pipes to manage content
 - Uses an API call to retrieve details to include in the website
 - Includes Unit Testing
 

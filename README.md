@@ -1,6 +1,6 @@
 # Christopher Webb
 ### Software & Web Developer
-**CV available in .docx and .pdf formats**
+**CV available in .docx, .pdf and .json formats**
 
 <details>
     <summary>Table of Contents</summary>

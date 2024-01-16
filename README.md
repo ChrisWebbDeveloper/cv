@@ -64,6 +64,7 @@
 
 ## Contact Details
 :envelope: &nbsp; [webb.christopher@live.co.uk](mailto:webb.christopher@live.co.uk)  
+:telephone_receiver: &nbsp; 07803555840  
 :uk: &nbsp; Nottingham, UK  
 :pushpin: &nbsp; Willing to relocate to London, UK  
 :globe_with_meridians: &nbsp; [Website](https://chriswebbdeveloper.co.uk)  
@@ -249,7 +250,7 @@ Apr 2022 - Present
 - Top-down 2D dungeon crawler game
 - Originally built in Unity
 - Migrating to Godot
-- Written in C# using a variety of components to isolate logic functionality
+- Written in C# using a variety of elements to isolate logic functionality
 - Drawing 16x16 sprites in GIMP, combined into sprite sheets
 
 ### Chris Webb Developer (v3)

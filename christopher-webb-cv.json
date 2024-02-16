@@ -421,22 +421,28 @@
     ],
     "courses": [
         {
+            "name": "Microsoft Power Apps Essential Training: Beyond the Basics",
+            "issuing_organisation": "LinkedIn",
+            "issue_date": "2024-02-16",
+            "credential_link": "https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Microsoft Power Apps Essential Training Beyond the Basics.pdf"
+        },
+        {
             "name": "Machine Learning with Python: Foundations",
             "issuing_organisation": "LinkedIn",
             "issue_date": "2023-11-24",
-            "credential_link": "https://linkedin.com/learning/certificates/fe4c4e2f0e93f2e131060a7b257a7999b116edaaec68a78a3350f146244f1968?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D"
+            "credential_link": "https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine Learning with Python Foundations.pdf"
         },
         {
             "name": "AWS DeepRacer: Building a Reinforcement Learning Model",
             "issuing_organisation": "LinkedIn",
             "issue_date": "2023-11-15",
-            "credential_link": "https://linkedin.com/learning/certificates/7b0e29d7bdb44e4b727734976fb266719678b833ffef1e25adff46c43faee0e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D"
+            "credential_link": "https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS DeepRacer Building a Reinforcement Learning Model.pdf"
         },
         {
             "name": "Artificial Intelligence Foundations: Machine Learning",
             "issuing_organisation": "LinkedIn",
             "issue_date": "2023-11-01",
-            "credential_link": "https://linkedin.com/learning/certificates/ffb54cb6199877434f335c410322aabbef0f222903b86792bf75c6f0eb3e707c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D"
+            "credential_link": "https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial Intelligence Foundations Machine Learning.pdf"
         },
         {
             "name": "Using PowerApps with Excel, OneDrive, and SharePoint",

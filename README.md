@@ -344,9 +344,10 @@ Sep 2017 - Oct 2017
 
 
 ## Courses
-- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://linkedin.com/learning/certificates/7b0e29d7bdb44e4b727734976fb266719678b833ffef1e25adff46c43faee0e6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
-- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://linkedin.com/learning/certificates/ffb54cb6199877434f335c410322aabbef0f222903b86792bf75c6f0eb3e707c?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
-- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://linkedin.com/learning/certificates/fe4c4e2f0e93f2e131060a7b257a7999b116edaaec68a78a3350f146244f1968?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BvE5y5OAJQVWaNkAcBA1Sdg%3D%3D)
+- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Feb 2024**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Microsoft Power Apps Essential Training Beyond the Basics.pdf)
+- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine Learning with Python Foundations.pdf)
+- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS DeepRacer Building a Reinforcement Learning Model.pdf)
+- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial Intelligence Foundations Machine Learning.pdf)
 - Using PowerApps with Excel, OneDrive, and SharePoint - [**Issued Feb 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/using_powerapps_with_excel_onedrive_and_sharepoint.pdf)
 - Angular Forms - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_forms.pdf)
 - Angular Patterns & Best Practices - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_patterns_%26_best_practices.pdf)

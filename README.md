@@ -345,12 +345,12 @@ Sep 2017 - Oct 2017
 
 ## Courses
 - Microsoft Power Apps Essential Training: Beyond the Basics - [**Issued Feb 2024**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Microsoft%20Power%20Apps%20Essential%20Training%20Beyond%20the%20Basics.pdf)
-- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
-- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS%20DeepRacer%20Building%20a%20Reinforcement%20Learning%20Model.pdf)
-- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
+- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
+- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS%20DeepRacer%20Building%20a%20Reinforcement%20Learning%20Model.pdf)
+- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
 - Using PowerApps with Excel, OneDrive, and SharePoint - [**Issued Feb 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/using_powerapps_with_excel_onedrive_and_sharepoint.pdf)
-- Angular Forms - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_forms.pdf)
 - Angular Patterns & Best Practices - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_patterns_%26_best_practices.pdf)
+- Angular Forms - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_forms.pdf)
 - JavaScript Promises and Async Programming - [**Issued Nov 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/javascript_promises_and_async_programming.pdf)
 - ASP.NET Core Fundamentals - [**Issued Jun 2021**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/aspnet_core_fundamentals.pdf)
 - Creating Object-oriented TypeScript Code - [**Issued Feb 2021**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/creating_object-oriented_typescript_code.pdf)

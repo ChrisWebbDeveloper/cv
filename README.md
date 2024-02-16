@@ -344,10 +344,10 @@ Sep 2017 - Oct 2017
 
 
 ## Courses
-- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Feb 2024**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Microsoft Power Apps Essential Training Beyond the Basics.pdf)
-- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine Learning with Python Foundations.pdf)
-- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS DeepRacer Building a Reinforcement Learning Model.pdf)
-- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial Intelligence Foundations Machine Learning.pdf)
+- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Feb 2024**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Microsoft%20Power%20Apps%20Essential%20Training%20Beyond%20the%20Basics.pdf)
+- AWS DeepRacer: Building a Reinforcement Learning Model - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Machine%20Learning%20with%20Python%20Foundations.pdf)
+- Artificial Intelligence Foundations: Machine Learning - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_AWS%20DeepRacer%20Building%20a%20Reinforcement%20Learning%20Model.pdf)
+- Machine Learning with Python: Foundations - [**Issued Nov 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Machine%20Learning.pdf)
 - Using PowerApps with Excel, OneDrive, and SharePoint - [**Issued Feb 2023**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/using_powerapps_with_excel_onedrive_and_sharepoint.pdf)
 - Angular Forms - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_forms.pdf)
 - Angular Patterns & Best Practices - [**Issued Dec 2022**](https://github.com/ChrisWebbDeveloper/cv/blob/main/certificates/angular_patterns_%26_best_practices.pdf)
